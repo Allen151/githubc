@@ -14,3 +14,5 @@ $ git commit -m “描述”    #该命令将add或者rm的文件添加到本地
 
 - 将仓库的文件下载到本地  
 `$ git clone git@github.com:allen151/gitskills.git`
+
+- test branch
