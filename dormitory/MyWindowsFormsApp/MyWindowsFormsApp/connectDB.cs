@@ -14,8 +14,12 @@ namespace MyWindowsFormsApp
         public static void testConnect(string empno,ref string[] values)
         {
             //声明定义链接字符串
+<<<<<<< HEAD
             //string strCon = "Data Source=orcl;Persist Security Info=True;User ID=scott;Password=tiger;Unicode=True";
             string strCon = "Data Source = bisdev; Persist Security Info = True; User ID = format; Password = format123; Unicode = True";
+=======
+            string strCon = "Data Source=orcl;Persist Security Info=True;User ID=scott;Password=tiger;Unicode=True";
+>>>>>>> cccc549be7be453826a556ef27ece9613208f9f6
             //实例化链接对象8
             OracleConnection conn = new OracleConnection();
             //try
