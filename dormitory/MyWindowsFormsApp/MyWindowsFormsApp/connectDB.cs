@@ -60,7 +60,8 @@ namespace MyWindowsFormsApp
             if (empDataRead.HasRows) //有数据
             {
                 while (empDataRead.Read()) {//依次读取行
-                    empDataRead.GetValues(values);//取得所有字段的值，存放于 values 数组中。
+                    //empDataRead.GetValues(values);//取得所有字段的值，存放于 values 数组中。
+                    Console.WriteLine("{0},{1}",empDataRead.GetInt32(0),empDataRead.GetInt32(1));
                     return values;
                     //foreach (var value in values)
                     //    dataGridView1.Rows.Add(value);

@@ -16,3 +16,13 @@ D:\PdmC#\C#\1\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.Pr
 D:\PdmC#\C#\1\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.csproj.GenerateResource.cache
 D:\PdmC#\C#\1\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.exe
 D:\PdmC#\C#\1\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.pdb
+D:\PdmC#\githubC\githubc\dormitory\MyWindowsFormsApp\MyWindowsFormsApp\bin\Debug\MyWindowsFormsApp.exe.config
+D:\PdmC#\githubC\githubc\dormitory\MyWindowsFormsApp\MyWindowsFormsApp\bin\Debug\MyWindowsFormsApp.exe
+D:\PdmC#\githubC\githubc\dormitory\MyWindowsFormsApp\MyWindowsFormsApp\bin\Debug\MyWindowsFormsApp.pdb
+D:\PdmC#\githubC\githubc\dormitory\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.csprojAssemblyReference.cache
+D:\PdmC#\githubC\githubc\dormitory\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.Form1.resources
+D:\PdmC#\githubC\githubc\dormitory\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.Properties.Resources.resources
+D:\PdmC#\githubC\githubc\dormitory\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.csproj.GenerateResource.cache
+D:\PdmC#\githubC\githubc\dormitory\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.exe
+D:\PdmC#\githubC\githubc\dormitory\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.pdb
+D:\PdmC#\githubC\githubc\dormitory\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.Form2.resources
