@@ -10,6 +10,7 @@
     <AssemblyName>MyWindowsFormsApp</AssemblyName>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -18,11 +19,16 @@
 =======
 =======
 >>>>>>> cccc549be7be453826a556ef27ece9613208f9f6
+=======
+>>>>>>> cccc549be7be453826a556ef27ece9613208f9f6
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> cccc549be7be453826a556ef27ece9613208f9f6
+=======
 >>>>>>> cccc549be7be453826a556ef27ece9613208f9f6
 =======
 >>>>>>> cccc549be7be453826a556ef27ece9613208f9f6
@@ -84,7 +90,10 @@
       <DependentUpon>Resources.resx</DependentUpon>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <DesignTime>True</DesignTime>
+=======
+>>>>>>> cccc549be7be453826a556ef27ece9613208f9f6
 =======
 >>>>>>> cccc549be7be453826a556ef27ece9613208f9f6
 =======

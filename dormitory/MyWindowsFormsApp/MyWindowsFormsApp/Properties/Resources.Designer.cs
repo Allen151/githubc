@@ -3,6 +3,7 @@
 //     此代码由工具生成。
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 //     运行时版本:4.0.30319.42000
 //
 //     对此文件的更改可能会导致不正确的行为，并且如果
@@ -23,6 +24,8 @@ namespace MyWindowsFormsApp.Properties {
 =======
 =======
 >>>>>>> cccc549be7be453826a556ef27ece9613208f9f6
+=======
+>>>>>>> cccc549be7be453826a556ef27ece9613208f9f6
 //     运行时版本: 4.0.30319.42000
 //
 //     对此文件的更改可能导致不正确的行为，如果
@@ -41,6 +44,9 @@ namespace MyWindowsFormsApp.Properties
     // 类通过类似于 ResGen 或 Visual Studio 的工具自动生成的。
     // 若要添加或删除成员，请编辑 .ResX 文件，然后重新运行 ResGen
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> cccc549be7be453826a556ef27ece9613208f9f6
+=======
 >>>>>>> cccc549be7be453826a556ef27ece9613208f9f6
 =======
 >>>>>>> cccc549be7be453826a556ef27ece9613208f9f6
@@ -48,6 +54,7 @@ namespace MyWindowsFormsApp.Properties
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     internal class Resources {
@@ -68,6 +75,8 @@ namespace MyWindowsFormsApp.Properties
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
 =======
+=======
+>>>>>>> cccc549be7be453826a556ef27ece9613208f9f6
 =======
 >>>>>>> cccc549be7be453826a556ef27ece9613208f9f6
     internal class Resources
@@ -93,6 +102,9 @@ namespace MyWindowsFormsApp.Properties
                 if ((resourceMan == null))
                 {
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> cccc549be7be453826a556ef27ece9613208f9f6
+=======
 >>>>>>> cccc549be7be453826a556ef27ece9613208f9f6
 =======
 >>>>>>> cccc549be7be453826a556ef27ece9613208f9f6
@@ -102,6 +114,7 @@ namespace MyWindowsFormsApp.Properties
                 return resourceMan;
             }
         }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
         
@@ -116,6 +129,8 @@ namespace MyWindowsFormsApp.Properties
             }
             set {
 =======
+=======
+>>>>>>> cccc549be7be453826a556ef27ece9613208f9f6
 =======
 >>>>>>> cccc549be7be453826a556ef27ece9613208f9f6
 
@@ -133,6 +148,9 @@ namespace MyWindowsFormsApp.Properties
             set
             {
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> cccc549be7be453826a556ef27ece9613208f9f6
+=======
 >>>>>>> cccc549be7be453826a556ef27ece9613208f9f6
 =======
 >>>>>>> cccc549be7be453826a556ef27ece9613208f9f6

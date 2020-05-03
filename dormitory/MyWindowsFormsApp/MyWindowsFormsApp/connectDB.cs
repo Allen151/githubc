@@ -16,8 +16,12 @@ namespace MyWindowsFormsApp
             //声明定义链接字符串
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             //string strCon = "Data Source=orcl;Persist Security Info=True;User ID=scott;Password=tiger;Unicode=True";
             string strCon = "Data Source = bisdev; Persist Security Info = True; User ID = format; Password = format123; Unicode = True";
+=======
+            string strCon = "Data Source=orcl;Persist Security Info=True;User ID=scott;Password=tiger;Unicode=True";
+>>>>>>> cccc549be7be453826a556ef27ece9613208f9f6
 =======
             string strCon = "Data Source=orcl;Persist Security Info=True;User ID=scott;Password=tiger;Unicode=True";
 >>>>>>> cccc549be7be453826a556ef27ece9613208f9f6

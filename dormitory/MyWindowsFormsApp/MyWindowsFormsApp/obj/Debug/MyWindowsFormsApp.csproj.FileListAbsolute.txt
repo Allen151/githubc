@@ -18,6 +18,7 @@ D:\PdmC#\C#\1\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.ex
 D:\PdmC#\C#\1\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.pdb
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 D:\pdm\C#\githubC\dormitory\MyWindowsFormsApp\MyWindowsFormsApp\bin\Debug\MyWindowsFormsApp.exe.config
 D:\pdm\C#\githubC\dormitory\MyWindowsFormsApp\MyWindowsFormsApp\bin\Debug\MyWindowsFormsApp.exe
 D:\pdm\C#\githubC\dormitory\MyWindowsFormsApp\MyWindowsFormsApp\bin\Debug\MyWindowsFormsApp.pdb
@@ -27,6 +28,8 @@ D:\pdm\C#\githubC\dormitory\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWind
 D:\pdm\C#\githubC\dormitory\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.csproj.GenerateResource.Cache
 D:\pdm\C#\githubC\dormitory\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.exe
 D:\pdm\C#\githubC\dormitory\MyWindowsFormsApp\MyWindowsFormsApp\obj\Debug\MyWindowsFormsApp.pdb
+=======
+>>>>>>> cccc549be7be453826a556ef27ece9613208f9f6
 =======
 >>>>>>> cccc549be7be453826a556ef27ece9613208f9f6
 =======
