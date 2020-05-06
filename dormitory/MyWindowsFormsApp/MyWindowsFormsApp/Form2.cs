@@ -23,13 +23,15 @@ namespace MyWindowsFormsApp
         {
             using (OracleConnection orclcon = new OracleConnection(strcon)) { //链接完会自动关闭
                 orclcon.Open();//打开数据库
-                string sql = "select * from student";//需要执行的sql语句
+                string sql = "select * from emp";//需要执行的sql语句
                 OracleCommand command = new OracleCommand(sql,orclcon);//实例化OracleCommand对象
                 OracleDataReader reader = command.ExecuteReader();//创建OracleDataReader对象
                 if (reader.HasRows) {//判断是否有结果返回
+                    txtAllStu.Text = reader.GetName(0)+ reader.GetName(1) + reader.GetName(2) +
+                        reader.GetName(3) + reader.GetName(4) + reader.GetName(5)+"\n" ;//格式还是不满意
                     while (reader.Read()) {//依次读取行
                         txtAllStu.Text += reader[0].ToString() + reader[1].ToString()+reader[2].ToString() + 
-                            reader[3].ToString()+ reader[4].ToString() + reader[5].ToString();
+                            reader[3].ToString()+ reader[4].ToString() + reader[5].ToString()+"\n";
                     }
                 }
             }
@@ -68,6 +70,51 @@ namespace MyWindowsFormsApp
                 MessageBox.Show(ex.Message);
             }
             finally {
+                orclcon.Close();
+            }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            OracleConnection orclcon = null;
+            try {
+                orclcon = new OracleConnection(strcon);
+                string strSql = "select * from dept";
+                OracleDataAdapter da = new OracleDataAdapter(strSql,orclcon);
+                DataSet ds = new DataSet();
+                da.Fill(ds, "table");
+                MessageBox.Show("成功");
+            }
+            catch (Exception ex) {
+                MessageBox.Show(ex.Message);
+            }
+            finally {
+                orclcon.Close();
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            OracleConnection orclcon = null;
+            try
+            {
+                orclcon = new OracleConnection(strcon);
+                string strSql = "select * from student";
+                OracleDataAdapter da = new OracleDataAdapter(strSql, orclcon);
+                DataSet ds = new DataSet();
+                da.UpdateCommand = new OracleCommand("update student set xb='W'", orclcon);//修改数据
+                da.Fill(ds, "table");
+                DataRow dr = ds.Tables["table"].Rows[0];//表的第一行
+                dr["xb"] = "1";
+                da.Update(ds,"table");
+                MessageBox.Show("成功");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            finally
+            {
                 orclcon.Close();
             }
         }
