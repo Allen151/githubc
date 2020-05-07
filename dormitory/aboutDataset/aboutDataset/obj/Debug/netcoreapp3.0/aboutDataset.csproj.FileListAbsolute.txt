@@ -1,0 +1,11 @@
+D:\PdmC#\githubC\githubc\dormitory\aboutDataset\aboutDataset\bin\Debug\netcoreapp3.0\aboutDataset.exe
+D:\PdmC#\githubC\githubc\dormitory\aboutDataset\aboutDataset\bin\Debug\netcoreapp3.0\aboutDataset.deps.json
+D:\PdmC#\githubC\githubc\dormitory\aboutDataset\aboutDataset\bin\Debug\netcoreapp3.0\aboutDataset.runtimeconfig.json
+D:\PdmC#\githubC\githubc\dormitory\aboutDataset\aboutDataset\bin\Debug\netcoreapp3.0\aboutDataset.runtimeconfig.dev.json
+D:\PdmC#\githubC\githubc\dormitory\aboutDataset\aboutDataset\bin\Debug\netcoreapp3.0\aboutDataset.dll
+D:\PdmC#\githubC\githubc\dormitory\aboutDataset\aboutDataset\bin\Debug\netcoreapp3.0\aboutDataset.pdb
+D:\PdmC#\githubC\githubc\dormitory\aboutDataset\aboutDataset\obj\Debug\netcoreapp3.0\aboutDataset.csprojAssemblyReference.cache
+D:\PdmC#\githubC\githubc\dormitory\aboutDataset\aboutDataset\obj\Debug\netcoreapp3.0\aboutDataset.AssemblyInfoInputs.cache
+D:\PdmC#\githubC\githubc\dormitory\aboutDataset\aboutDataset\obj\Debug\netcoreapp3.0\aboutDataset.AssemblyInfo.cs
+D:\PdmC#\githubC\githubc\dormitory\aboutDataset\aboutDataset\obj\Debug\netcoreapp3.0\aboutDataset.dll
+D:\PdmC#\githubC\githubc\dormitory\aboutDataset\aboutDataset\obj\Debug\netcoreapp3.0\aboutDataset.pdb
